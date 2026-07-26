@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
