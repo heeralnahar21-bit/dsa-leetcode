@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
