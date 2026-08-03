@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
@@ -75,5 +78,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0496-next-greater-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
