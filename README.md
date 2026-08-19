@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0496-next-greater-element-i](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 ## Quicksort
 |  |
 | ------- |
