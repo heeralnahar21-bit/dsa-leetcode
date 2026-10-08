@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0455-assign-cookies) |
@@ -148,8 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
