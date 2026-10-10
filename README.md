@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0455-assign-cookies) |
 ## String
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1903-largest-odd-number-in-string](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Tree
 |  |
@@ -174,4 +177,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0078-subsets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
