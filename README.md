@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -211,9 +213,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
