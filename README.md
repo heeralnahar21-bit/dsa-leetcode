@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0455-assign-cookies) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0455-assign-cookies) |
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
