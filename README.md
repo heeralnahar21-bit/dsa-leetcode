@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0496-next-greater-element-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0042-trapping-rain-water) |
+| [0119-pascals-triangle-ii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 ## Quicksort
