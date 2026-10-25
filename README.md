@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0455-assign-cookies) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
