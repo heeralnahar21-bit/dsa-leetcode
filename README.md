@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/heeralnahar21-bit/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
